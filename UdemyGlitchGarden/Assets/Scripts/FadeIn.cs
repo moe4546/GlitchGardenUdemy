@@ -15,7 +15,7 @@ public class FadeIn : MonoBehaviour {
 		fadePanel = GetComponent<Image> ();
 	}
 	
-	// Fade In
+	// Fade In...
 	void Update () {
 		if(Time.timeSinceLevelLoad < fadeInTime) {
 			float alphaChange = Time.deltaTime / fadeInTime;
