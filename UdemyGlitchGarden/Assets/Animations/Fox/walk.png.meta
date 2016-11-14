@@ -39,11 +39,14 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 1024
@@ -54,20 +57,25 @@ TextureImporter:
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
+  rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 133.333298
+  spritePixelsToUnits: 133.3333
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_0
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_0
       rect:
         serializedVersion: 2
         x: 0
@@ -77,7 +85,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_1
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_1
       rect:
         serializedVersion: 2
         x: 153
@@ -87,7 +98,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_2
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_2
       rect:
         serializedVersion: 2
         x: 306
@@ -97,7 +111,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_3
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_3
       rect:
         serializedVersion: 2
         x: 459
@@ -107,7 +124,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_4
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_4
       rect:
         serializedVersion: 2
         x: 612
@@ -117,7 +137,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_5
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_5
       rect:
         serializedVersion: 2
         x: 765
@@ -127,7 +150,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_6
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_6
       rect:
         serializedVersion: 2
         x: 0
@@ -137,7 +163,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_7
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_7
       rect:
         serializedVersion: 2
         x: 153
@@ -147,7 +176,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_8
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_8
       rect:
         serializedVersion: 2
         x: 306
@@ -157,7 +189,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_9
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_9
       rect:
         serializedVersion: 2
         x: 459
@@ -167,7 +202,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_10
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_10
       rect:
         serializedVersion: 2
         x: 612
@@ -177,7 +215,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_11
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_11
       rect:
         serializedVersion: 2
         x: 765
@@ -187,7 +228,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_12
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_12
       rect:
         serializedVersion: 2
         x: 0
@@ -197,7 +241,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_13
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_13
       rect:
         serializedVersion: 2
         x: 153
@@ -207,7 +254,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_14
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_14
       rect:
         serializedVersion: 2
         x: 306
@@ -217,7 +267,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_15
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_15
       rect:
         serializedVersion: 2
         x: 459
@@ -227,7 +280,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_16
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_16
       rect:
         serializedVersion: 2
         x: 612
@@ -237,7 +293,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_17
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_17
       rect:
         serializedVersion: 2
         x: 765
@@ -247,7 +306,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_18
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_18
       rect:
         serializedVersion: 2
         x: 0
@@ -257,7 +319,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_19
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_19
       rect:
         serializedVersion: 2
         x: 153
@@ -267,7 +332,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_20
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_20
       rect:
         serializedVersion: 2
         x: 306
@@ -277,7 +345,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_21
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_21
       rect:
         serializedVersion: 2
         x: 459
@@ -287,7 +358,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_22
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_22
       rect:
         serializedVersion: 2
         x: 612
@@ -297,7 +371,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_23
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_23
       rect:
         serializedVersion: 2
         x: 765
@@ -307,5 +384,10 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
   spritePackingTag: 
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
