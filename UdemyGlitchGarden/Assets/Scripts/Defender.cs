@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Defernder : MonoBehaviour {
+public class Defender : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
